@@ -1,0 +1,12 @@
+display_name: "AI 求职助手"
+short_description: "简历优化、职位匹配、定制简历、求职信生成、面试准备全流程支持"
+default_prompt: "使用 ai-job-hunter 技能帮我处理求职相关需求"
+tags:
+  - resume
+  - job-search
+  - interview-prep
+  - cover-letter
+  - career
+author: "dannachen"
+version: "2.0.0"
+category: "career"
