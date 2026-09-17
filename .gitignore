@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Generated job-application artifacts
+/tmp/
+/output/
+/*.docx
+/*.pdf
+/*.png
+/Resume_*.md
+/简历_*.md
+/*面试准备*.md
+/*面试备战*.md
+/*面试复盘*.md
